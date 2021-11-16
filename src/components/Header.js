@@ -12,7 +12,7 @@ const Header = () => {
         alignItems: 'center',
         padding: 15,
       }}>
-      <Text style={{color: 'white', fontSize: 25, fontweight: '800'}}>
+      <Text style={{color: 'white', fontSize: 25, fontWeight: '800'}}>
         Bienvenido
       </Text>
       <View>
